@@ -1,2 +1,2 @@
 # Learn-Java-from-Scratch-Udemy-Journey-
-This is mt journey to learn Java from the very beginning.
+This is my journey to learn Java from the very beginning.
